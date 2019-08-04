@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "pistronics",
+        "name": "Pistronics 3",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [""],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": [""]
+    }
+]

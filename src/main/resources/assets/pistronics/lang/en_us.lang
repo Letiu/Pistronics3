@@ -1,0 +1,9 @@
+item.pistronics.debug_1.name=Debug Item 1
+item.pistronics.debug_2.name=Debug Item 2
+item.pistronics.debug_3.name=Debug Item 3
+item.pistronics.book_of_gears.name=Book of Gears
+
+
+tile.pistronics.stopper.name=Stopper
+
+itemGroup.pistronics.tabPistronics=Pistronics 3
